@@ -1,0 +1,96 @@
+[{
+    "qid": 1,
+    "ques": "What is part of a database that holds only one type of information?",
+    "options": [{
+        "oid": "A",
+        "choice": "Report"
+    }, {
+        "oid": "B",
+        "choice": "Field"
+    }, {
+        "oid": "C",
+        "choice": "Record"
+    }, {
+        "oid": "D",
+        "choice": "D. File"
+    }],
+    "ans": "B",
+    "myAns": null,
+    "isAnswered": false
+}, {
+    "qid": 2,
+    "ques": "In which decade did the first transatlantic radio broadcast occur?",
+    "options": [{
+        "oid": "A",
+        "choice": "1850s"
+	}, {
+        "oid": "B",
+        "choice": "1860s"
+	}, {
+        "oid": "C",
+        "choice": "1870s"
+	}, {
+        "oid": "D",
+        "choice": "1900s"
+	}],
+    "ans": "D",
+    "myAns": null,
+    "isAnswered": false
+}, {
+    "qid": 3,
+    "ques": "'.MOV' extension refers usually to what kind of file?",
+    "options": [{
+        "oid": "A",
+        "choice": "Image file"
+	}, {
+        "oid": "B",
+        "choice": "Animation/movie file"
+	}, {
+        "oid": "C",
+        "choice": "Audio file"
+	}, {
+        "oid": "D",
+        "choice": "MS Office document"
+	}],
+    "ans": "B",
+    "myAns": null,
+    "isAnswered": false
+}, {
+    "qid": 4,
+    "ques": "In which decade was the SPICE simulator introduced?",
+    "options": [{
+        "oid": "A",
+        "choice": "1950s"
+	}, {
+        "oid": "B",
+        "choice": "1960s"
+	}, {
+        "oid": "C",
+        "choice": "1972s"
+	}, {
+        "oid": "D",
+        "choice": "1980s"
+	}],
+    "ans": "C",
+    "myAns": null,
+    "isAnswered": false
+}, {
+    "qid": 5,
+    "ques": "Who developed Yahoo?",
+    "options": [{
+        "oid": "A",
+        "choice": "Dennis Ritchie & Ken Thompson"
+	}, {
+        "oid": "B",
+        "choice": "David Filo & Jerry Yang"
+	}, {
+        "oid": "C",
+        "choice": "Vint Cerf & Robert Kahn"
+	}, {
+        "oid": "D",
+        "choice": "Steve Case & Jeff Bezos"
+	}],
+    "ans": "B",
+    "myAns": null,
+    "isAnswered": false
+}]
